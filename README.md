@@ -1,5 +1,5 @@
 # wavetown
-Wavetown is an interactive animation that allows users to explore communication.
+Wavetown is an interactive animation that allows users to explore communication systems in a cartoon settings.
 
 ## Supported Platforms
 Wavetown is designed for use on multiple platforms including:
