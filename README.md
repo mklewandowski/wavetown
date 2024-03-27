@@ -1,5 +1,5 @@
 # wavetown
-Wavetown is an interactive animation that allows users to explore communication systems in a cartoon setting. Wavetown was originally created as a prototype demo for potential use in a larger educational radio science project or mobile application. Our team never pursued Wavetown further so for now, it is just a prototype demo.
+Wavetown is an interactive animation that allows users to explore communication systems in a cartoon setting. Wavetown was originally created as a prototype demo for potential use in a larger educational radio science project or mobile application. Our team never pursued Wavetown further so for now it is just a prototype demo.
 
 ![Wavetown gameplay](https://github.com/mklewandowski/wavetown/blob/main/wavetown.gif?raw=true)
 
